@@ -1,0 +1,16 @@
+addAsteroid 0 N F
+addAsteroid 2 I F
+addAsteroid 2 I F
+setPlaceNeighbour A0 A1
+setPlaceNeighbour A1 A2
+addEntity A0 S 2
+addEntity A1 S 2
+addEntity A2 S 2
+listEntities
+solarStorm A1 2
+listEntities
+
+ID:0 Type:S Place:A0
+ID:1 Type:S Place:A1
+ID:2 Type:S Place:A2
+ID:0 Type:S Place:A0

@@ -1,0 +1,18 @@
+addAsteroid 0 N F
+addAsteroid 2 I F
+setPlaceNeighbour A0 A1
+addEntity A0 U 2
+listPlaces
+listEntities
+solarStorm A0 1
+listEntities
+entityMove 0 A1
+listEntities
+solarStorm A1 1
+listEntities
+
+ID:A0
+ID:A1
+ID:0 Type:U Place:A0
+ID:0 Type:U Place:A0
+ID:0 Type:U Place:A1

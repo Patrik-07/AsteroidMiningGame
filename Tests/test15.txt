@@ -1,0 +1,9 @@
+addAsteroid 0 U 2 T
+addEntity A0 S 0
+listAsteroidData A0
+startNewRound T
+listEntities
+listPlaces
+
+Thickness:0 SunClose:T ResourceID:U ExposeCount:2
+A játéknak 0 kör után vége: A játékosok vesztettek.

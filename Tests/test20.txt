@@ -1,0 +1,13 @@
+addAsteroid 2 I F
+addAsteroid 2 I F
+addTeleports A0 A1
+addEntity T0 R 2
+addEntity A0 S 2
+listEntityData 0
+entityDrill 0
+listEntityData 0
+
+StepsCount:2
+Place:T0
+StepsCount:2
+Place:T0

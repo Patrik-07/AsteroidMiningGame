@@ -1,0 +1,12 @@
+addAsteroid 0 I F
+addEntity A0 S 1
+setEntityInventory 0 I 1
+putBackResource 0 0
+listEntityData 0
+listAsteroidData A0
+
+Inventory:0 I
+Teleport gates:
+StepsCount:1
+Place:A0
+Thickness:0 SunClose:F ResourceID:I

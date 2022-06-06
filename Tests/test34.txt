@@ -1,0 +1,8 @@
+addAsteroid 0 N F
+addEntity A0 S 2
+setEntityInventory 0 I 3 U 3 W 3
+depositBase 0
+setEntityInventory 0 C 3
+depositBase 0
+
+A játéknak 0 kör után vége: A játékosok nyertek.

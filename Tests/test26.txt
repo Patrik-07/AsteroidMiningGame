@@ -1,0 +1,9 @@
+addAsteroid 0 I F
+addEntity A0 U 2
+entityMine 0
+listEntityData 0
+listAsteroidData A0
+
+StepsCount:1
+Place:A0
+Thickness:0 SunClose:F ResourceID:N

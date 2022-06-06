@@ -1,0 +1,15 @@
+addAsteroid 2 I F
+addEntity A0 R 2
+addEntity A0 S 2
+listAsteroidData A0
+listEntityData 0
+entityDrill 0
+listAsteroidData A0
+listEntityData 0
+
+Thickness:2 SunClose:F ResourceID:I
+StepsCount:2
+Place:A0
+Thickness:1 SunClose:F ResourceID:I
+StepsCount:1
+Place:A0

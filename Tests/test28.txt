@@ -1,0 +1,10 @@
+addAsteroid 0 U 2 T
+addEntity A0 U 2
+listEntities
+listAsteroidData A0
+startNewRound T
+listEntities
+listPlaces
+
+ID:0 Type:U Place:A0
+Thickness:0 SunClose:T ResourceID:U ExposeCount:2

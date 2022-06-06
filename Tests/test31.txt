@@ -1,0 +1,8 @@
+addAsteroid 0 U 0 T
+startNewRound T
+startNewRound T
+listAsteroidData A0
+startNewRound T
+listPlaces
+
+Thickness:0 SunClose:T ResourceID:U ExposeCount:2

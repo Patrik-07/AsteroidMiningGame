@@ -1,0 +1,19 @@
+addAsteroid 0 N F
+addEntity A0 S 1
+setEntityInventory 0 I 1
+listEntityData 0
+listEntities
+buildRobot 0
+listEntityData 0
+listEntities
+
+Inventory:0 I
+Teleport gates:
+StepsCount:1
+Place:A0
+ID:0 Type:S Place:A0
+Inventory:0 I
+Teleport gates:
+StepsCount:1
+Place:A0
+ID:0 Type:S Place:A0

@@ -1,0 +1,18 @@
+addAsteroid 0 N F
+addEntity A0 S 1
+setEntityInventory 0 I 2
+setEntityInventory 0 W 1
+setEntityInventory 0 U 1
+setEntityInventory 0 C 1
+listEntityData 0
+buildTeleport 0
+listEntityData 0
+
+Inventory:0 I 1 I 2 W 3 U 4 C
+Teleport gates:
+StepsCount:1
+Place:A0
+Inventory:0 C
+Teleport gates: ID:0 Pair:1 ID:1 Pair:0
+StepsCount:1
+Place:A0

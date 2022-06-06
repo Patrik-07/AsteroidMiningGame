@@ -1,0 +1,7 @@
+addAsteroid 2 N F
+addEntity A0 U 2
+listEntities
+solarStorm A0 1
+listEntities
+
+ID:0 Type:U Place:A0

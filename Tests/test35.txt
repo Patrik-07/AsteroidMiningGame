@@ -1,0 +1,6 @@
+addAsteroid 9 I F
+addEntity A0 S 0
+solarStorm A0 1
+listEntities
+
+A játéknak 0 kör után vége: A játékosok vesztettek.

@@ -1,0 +1,9 @@
+addAsteroid 0 N F
+addAsteroid 0 N F
+setPlaceNeighbour A0 A1
+addEntity A0 R 1
+entityMove 0 A1
+listEntityData 0
+
+StepsCount:0
+Place:A1

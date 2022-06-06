@@ -1,0 +1,8 @@
+addAsteroid 1 U 0 T
+addEntity A0 S 2
+listAsteroidData A0
+entityDrill 0
+listAsteroidData A0
+
+Thickness:1 SunClose:T ResourceID:U ExposeCount:0
+Thickness:0 SunClose:T ResourceID:U ExposeCount:1

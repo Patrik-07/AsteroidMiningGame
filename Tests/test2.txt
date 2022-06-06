@@ -1,0 +1,10 @@
+addAsteroid 1 I F
+addAsteroid 1 I F
+addEntity A0 S 2
+entityMove 0 A1
+listEntityData 0
+
+Inventory:
+Teleport gates:
+StepsCount:2
+Place:A0

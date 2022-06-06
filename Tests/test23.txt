@@ -1,0 +1,11 @@
+addAsteroid 0 N F
+addEntity A0 R 2
+addEntity A0 S 2
+listEntities
+solarStorm A0 1
+listEntities
+
+ID:0 Type:R Place:A0
+ID:1 Type:S Place:A0
+ID:0 Type:R Place:A0
+ID:1 Type:S Place:A0

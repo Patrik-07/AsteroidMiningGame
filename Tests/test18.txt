@@ -1,0 +1,8 @@
+addAsteroid 0 N F
+addAsteroid 0 N F
+addEntity A0 R 1
+entityMove 0 A1
+listEntityData 0
+
+StepsCount:1
+Place:A0

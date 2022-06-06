@@ -1,0 +1,6 @@
+addAsteroid 2 I F
+addEntity A0 S 2
+entityDrill 0
+listAsteroidData A0
+
+Thickness:1 SunClose:F ResourceID:I
